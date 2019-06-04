@@ -150,9 +150,7 @@ Based on the model and recommender exploration, the NLP results performed "bette
 
 - Fit Predictions: The NLP model reached a higher accuracy score. Given that many retail sites currently have sizing charts and still suffer from mass returns, NLP might be an interesting angle to approach size predictions. 
 
-- Product Recommender: 
- - Using NLP captured user preferences that general size and fit data could not. 
- - Underlying item similarities were rooted in text reviews. 
+- Product Recommender: Using NLP captured user preferences that general size and fit data could not. Underlying item similarities were rooted in text reviews. 
 
 **Next Steps**
 - Use AWS Run a combined model and compare performace 
